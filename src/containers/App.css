@@ -9,13 +9,11 @@
   background-position-x: center;
   background-position-y: 0;
   background-attachment: fixed;
+  -webkit-background-attachment: fixed;
   background-size: cover;
   width: 100vw;
-  min-height: 200vh;
 
   transition: background 1s linear;
-
-  
   
 }
 
@@ -64,5 +62,14 @@
   color: rgba(0, 0, 0, 0.76);
 
 
+}
+
+@media screen and (max-width:400px){
+
+  .App{
+
+    min-height: 180vh;
+  }
+  
 }
 
