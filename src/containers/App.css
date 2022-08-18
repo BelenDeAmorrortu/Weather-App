@@ -1,0 +1,67 @@
+
+.App {
+
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+  background-repeat: no-repeat;
+  background-position-x: center;
+  background-position-y: 0;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100vw;
+
+  transition: background 1s linear;
+
+  
+  
+}
+
+.light{
+
+  background-image: url('../img/cloud-on-sky-background-at-twilight-times-vintage-filter-processing-style-free-photo.jpg');
+
+
+}
+
+.dark{
+
+  background-image: url('../img/pexels-photo-4737484\ -\ copia (2).jpeg');
+  background-attachment: fixed;
+}
+
+.switch{
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  top: 10vh;
+  left: 2vw;
+}
+
+.switch h6{
+
+  margin-left: 0.5vw;
+  padding-top: 1vh;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.selected {
+
+  text-decoration: none;
+  color: black;
+}
+
+.selected:hover{
+
+  text-decoration: none;
+  color: rgba(0, 0, 0, 0.76);
+
+
+}
+

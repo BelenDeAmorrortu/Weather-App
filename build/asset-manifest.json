@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c76acf25.chunk.css",
+    "main.js": "/static/js/main.64a4488e.chunk.js",
+    "main.js.map": "/static/js/main.64a4488e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fc0d750b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fc0d750b.js.map",
+    "static/js/2.45884920.chunk.js": "/static/js/2.45884920.chunk.js",
+    "static/js/2.45884920.chunk.js.map": "/static/js/2.45884920.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c76acf25.chunk.css.map": "/static/css/main.c76acf25.chunk.css.map",
+    "static/js/2.45884920.chunk.js.LICENSE.txt": "/static/js/2.45884920.chunk.js.LICENSE.txt",
+    "static/media/Logo Henry Blanco.92181c50.png": "/static/media/Logo Henry Blanco.92181c50.png",
+    "static/media/App.css": "/static/media/pexels-photo-4737484 - copia (2).2b0ab9af.jpeg",
+    "static/media/cloud1.deebc7b5.png": "/static/media/cloud1.deebc7b5.png",
+    "static/media/cloud2.d30b116b.png": "/static/media/cloud2.d30b116b.png",
+    "static/media/cloud3.9328a85b.png": "/static/media/cloud3.9328a85b.png",
+    "static/media/cloud4.d6d2482c.png": "/static/media/cloud4.d6d2482c.png",
+    "static/media/cloud5.2b00aa33.png": "/static/media/cloud5.2b00aa33.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc0d750b.js",
+    "static/js/2.45884920.chunk.js",
+    "static/css/main.c76acf25.chunk.css",
+    "static/js/main.64a4488e.chunk.js"
+  ]
+}

@@ -1,0 +1,47 @@
+
+.clouds_container{
+
+    width:100vw;
+    height: 50%;
+    position: fixed;
+    bottom: -6vh;
+
+    z-index: 0;
+    user-select: none;
+    -webkit-user-select: none;
+    
+}
+
+.clouds_container img{
+
+    position: absolute;
+    bottom: 0;
+    width: 105%;
+    max-height: 100%;
+    animation: animate calc( 40s * var(--i)) linear infinite;
+    user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+@keyframes animate{
+
+    0%{
+        transform: translateX(-150%);
+    }
+
+    100%{
+        transform: translateX(100%);
+
+    }
+}
+
+@media screen and (max-width: 700px){
+
+    .clouds_container img{
+
+        height: 90%;
+        width: 150%;
+    }
+    
+}
