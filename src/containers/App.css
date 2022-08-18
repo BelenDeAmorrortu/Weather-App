@@ -11,6 +11,7 @@
   background-attachment: fixed;
   background-size: cover;
   width: 100vw;
+  min-height: 200vh;
 
   transition: background 1s linear;
 
