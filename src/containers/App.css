@@ -1,5 +1,5 @@
 body{
-  
+
   background-color: #fff;
 }
 
@@ -17,7 +17,7 @@ body{
   background-size: cover;
   width: 100vw;
 
-  transition: background 1s linear;
+  transition: background-image 1s linear;
   
 }
 
@@ -72,7 +72,7 @@ body{
 
   .App{
 
-    min-height: 140vh;
+    height: 100vh;
   }
   
 }
